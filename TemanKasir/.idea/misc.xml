@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Project/coba/android-temankasir/TemanKasir/app/src/main/res/layout/activity_atur_outlet.xml" value="0.1" />
+        <entry key="..\:/Android Project/coba/android-temankasir/TemanKasir/app/src/main/res/layout/activity_bisnis_akun.xml" value="0.22" />
+        <entry key="..\:/Android Project/coba/android-temankasir/TemanKasir/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Android Project/coba/android-temankasir/TemanKasir/app/src/main/res/layout/activity_tambah_kasir.xml" value="0.1" />
+        <entry key="..\:/Android Project/coba/android-temankasir/TemanKasir/app/src/main/res/layout/activity_tambah_kategori_item.xml" value="0.22" />
+        <entry key="..\:/Android Project/coba/android-temankasir/TemanKasir/app/src/main/res/layout/activity_tambah_outlet.xml" value="0.1" />
+        <entry key="..\:/Android Project/coba/android-temankasir/TemanKasir/app/src/main/res/layout/dialog_open_foto.xml" value="0.22" />
+        <entry key="..\:/Android Project/coba/android-temankasir/TemanKasir/app/src/main/res/layout/fragment_pengaturan.xml" value="0.1" />
+        <entry key="..\:/Android Project/coba/android-temankasir/TemanKasir/app/src/main/res/layout/inflater_item.xml" value="0.1" />
+        <entry key="..\:/Android Project/coba/android-temankasir/TemanKasir/app/src/main/res/layout/inflater_kasir.xml" value="0.1" />
+        <entry key="..\:/Android Project/coba/android-temankasir/TemanKasir/app/src/main/res/layout/inflater_kategori_item.xml" value="0.1" />
+        <entry key="..\:/Android Project/coba/android-temankasir/TemanKasir/app/src/main/res/layout/inflater_list_outlet.xml" value="0.1082427536231884" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/drawable/rounded_button_keranjang.xml" value="0.114" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/drawable/rounded_dialog.xml" value="0.114" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/drawable/rounded_red_button.xml" value="0.114" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/drawable/rounded_tosca_button.xml" value="0.114" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/activity_atur_diskon.xml" value="0.1" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/activity_atur_item.xml" value="0.1" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/activity_atur_kasir.xml" value="0.1" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/activity_atur_metode_pembayaran.xml" value="0.22" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/activity_atur_pelanggan.xml" value="0.13405797101449277" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/activity_bisnis_akun.xml" value="0.1" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/activity_keranjang.xml" value="0.13405797101449277" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/activity_pembayaran.xml" value="0.13405797101449277" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/activity_profile_akun.xml" value="0.1" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/activity_receipt_transaksi.xml" value="0.22" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/activity_tambah_item.xml" value="0.1" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/activity_tambah_kasir.xml" value="0.1" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/activity_tambah_kategori_item.xml" value="0.1" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/activity_tambah_outlet.xml" value="0.1" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/activity_tambah_pelanggan.xml" value="0.1" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/dialog_detail_histori_trans.xml" value="0.22" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/dialog_detail_pelanggan.xml" value="0.13405797101449277" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/dialog_hapus_item.xml" value="0.10109289617486339" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/dialog_hapus_kategori_item.xml" value="0.13405797101449277" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/dialog_item_trans.xml" value="0.13405797101449277" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/dialog_keranjang.xml" value="0.13405797101449277" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/dialog_maintenance.xml" value="0.13405797101449277" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/fragment_diskon_item.xml" value="0.1" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/fragment_histori.xml" value="0.22" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/fragment_item.xml" value="0.1" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/fragment_pengaturan.xml" value="0.13405797101449277" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/fragment_transaksi.xml" value="0.22" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/inflater_item.xml" value="0.22" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/inflater_kasir.xml" value="0.1" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/inflater_kategori_item.xml" value="0.1" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/inflater_list_metodepembayaran.xml" value="0.22" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/item_item_transaksi.xml" value="0.1" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/item_kategori_transaksi.xml" value="0.13405797101449277" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/item_list_histori_transaksi.xml" value="0.13405797101449277" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/item_list_metode_pembayaran.xml" value="0.22" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/item_list_payment_tunai.xml" value="0.22" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/item_list_pelanggan.xml" value="0.13405797101449277" />
+        <entry key="..\:/Flutter/Android/android-temankasir/TemanKasir/app/src/main/res/layout/item_list_preview_pesanan.xml" value="0.13405797101449277" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

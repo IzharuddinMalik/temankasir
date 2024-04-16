@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.pengaturan.aturdiskon.AturDiskonActivity"
+    android:orientation="vertical"
+    android:background="@color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@color/tosca">
+
+        <ImageView
+            android:layout_width="@dimen/_24sdp"
+            android:layout_height="@dimen/_24sdp"
+            android:src="@drawable/ic_arrow_left_white"
+            android:id="@+id/ivAturDiskonBackToPengaturan"
+            android:layout_margin="@dimen/_10sdp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Atur Diskon"
+            android:textSize="@dimen/_14ssp"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="@dimen/_50sdp"
+            android:fontFamily="@font/metropolis_bold"/>
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/fragment_container_diskon"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"/>
+
+    <com.gauravk.bubblenavigation.BubbleNavigationLinearView
+        android:id="@+id/bubbleNavigationDiskon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/tosca"
+        android:orientation="horizontal"
+        android:paddingTop="@dimen/_10sdp"
+        android:paddingRight="@dimen/_20sdp"
+        android:paddingLeft="@dimen/_20sdp"
+        android:paddingBottom="@dimen/_10sdp">
+
+        <com.gauravk.bubblenavigation.BubbleToggleView
+            android:id="@+id/diskonItem"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            app:bt_colorActive="@color/white"
+            app:bt_colorInactive="@color/white"
+            app:bt_icon="@drawable/ic_discount_item"
+            app:bt_iconHeight="@dimen/_15sdp"
+            app:bt_iconWidth="@dimen/_15sdp"
+            app:bt_padding="@dimen/_3sdp"
+            app:bt_shape="@drawable/border_gray"
+            app:bt_title="Diskon Item"
+            app:bt_titleSize="@dimen/_11ssp" />
+
+        <com.gauravk.bubblenavigation.BubbleToggleView
+            android:id="@+id/diskonTransaksi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            app:bt_colorActive="@color/white"
+            app:bt_colorInactive="@color/white"
+            app:bt_icon="@drawable/ic_discount_transaksi"
+            app:bt_iconHeight="@dimen/_15sdp"
+            app:bt_iconWidth="@dimen/_15sdp"
+            app:bt_padding="@dimen/_3sdp"
+            app:bt_shape="@drawable/border_gray"
+            app:bt_title="Diskon Transaksi"
+            app:bt_titleSize="@dimen/_11ssp" />
+
+
+    </com.gauravk.bubblenavigation.BubbleNavigationLinearView>
+
+</LinearLayout>

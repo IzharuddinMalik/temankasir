@@ -1,0 +1,112 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.temankasir"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:6:5-80
+12-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:6:22-77
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:7:5-81
+13-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:7:22-78
+14
+15    <application
+15-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:9:5-35:19
+16        android:allowBackup="true"
+16-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:10:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.5.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/07adfc08fe16d3453ab9291511ec05fe/core-1.5.0/AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+19        android:icon="@drawable/logo512"
+19-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:11:9-41
+20        android:label="@string/app_name"
+20-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:12:9-41
+21        android:roundIcon="@drawable/logo512"
+21-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:13:9-46
+22        android:supportsRtl="true"
+22-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:14:9-35
+23        android:testOnly="true"
+24        android:theme="@style/Theme.AppCompat.NoActionBar" >
+24-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:15:9-59
+25        <activity android:name="com.temankasir.ui.pengaturan.aturoutlet.TambahOutletActivity" />
+25-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:16:9-92
+25-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:16:19-80
+26        <activity android:name="com.temankasir.ui.pengaturan.aturoutlet.AturOutletActivity" />
+26-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:17:9-81
+26-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:17:19-78
+27        <activity android:name="com.temankasir.ui.pengaturan.aturitem.TambahItemActivity" />
+27-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:18:9-79
+27-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:18:19-76
+28        <activity android:name="com.temankasir.ui.pengaturan.aturitem.TambahKategoriItemActivity" />
+28-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:19:9-87
+28-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:19:19-84
+29        <activity android:name="com.temankasir.ui.pengaturan.aturitem.AturItemActivity" />
+29-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:20:9-77
+29-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:20:19-74
+30        <activity android:name="com.temankasir.ui.pengaturan.aturkasir.TambahKasirActivity" />
+30-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:21:9-81
+30-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:21:19-78
+31        <activity android:name="com.temankasir.ui.pengaturan.aturkasir.AturKasirActivity" />
+31-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:22:9-79
+31-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:22:19-76
+32        <activity android:name="com.temankasir.ui.pengaturan.bisnisakun.BisnisAkunActivity" />
+32-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:23:9-81
+32-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:23:19-78
+33        <activity android:name="com.temankasir.ui.pengaturan.profileakun.ProfileAkunActivity" />
+33-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:24:9-83
+33-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:24:19-80
+34        <activity android:name="com.temankasir.ui.login.LoginActivity" />
+34-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:25:9-60
+34-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:25:19-57
+35        <activity android:name="com.temankasir.ui.slider.SlideActivity" />
+35-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:26:9-61
+35-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:26:19-58
+36        <activity android:name="com.temankasir.ui.home.MainActivity" />
+36-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:27:9-58
+36-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:27:19-55
+37        <activity android:name="com.temankasir.ui.splashscreen.SplashScreenActivity" >
+37-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:28:9-34:20
+37-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:28:19-71
+38            <intent-filter>
+38-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:29:13-33:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:30:17-69
+39-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:30:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:32:17-77
+41-->/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/AndroidManifest.xml:32:27-74
+42            </intent-filter>
+43        </activity>
+44
+45        <provider
+45-->[com.squareup.picasso:picasso:2.71828] /Users/macbook/.gradle/caches/transforms-2/files-2.1/35814741ff2a964c86efc9ffa8f0cb2d/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+46            android:name="com.squareup.picasso.PicassoProvider"
+46-->[com.squareup.picasso:picasso:2.71828] /Users/macbook/.gradle/caches/transforms-2/files-2.1/35814741ff2a964c86efc9ffa8f0cb2d/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+47            android:authorities="com.temankasir.com.squareup.picasso"
+47-->[com.squareup.picasso:picasso:2.71828] /Users/macbook/.gradle/caches/transforms-2/files-2.1/35814741ff2a964c86efc9ffa8f0cb2d/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+48            android:exported="false" />
+48-->[com.squareup.picasso:picasso:2.71828] /Users/macbook/.gradle/caches/transforms-2/files-2.1/35814741ff2a964c86efc9ffa8f0cb2d/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+49        <provider
+49-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/855ddc61a34d58ba3d9ba2b3d08479d5/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+50            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+50-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/855ddc61a34d58ba3d9ba2b3d08479d5/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
+51            android:authorities="com.temankasir.lifecycle-process"
+51-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/855ddc61a34d58ba3d9ba2b3d08479d5/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+52            android:exported="false"
+52-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/855ddc61a34d58ba3d9ba2b3d08479d5/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+53            android:multiprocess="true" />
+53-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/macbook/.gradle/caches/transforms-2/files-2.1/855ddc61a34d58ba3d9ba2b3d08479d5/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+54    </application>
+55
+56</manifest>

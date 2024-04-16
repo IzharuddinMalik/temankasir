@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Teman Kasir</string>
+
+    <string name="loading">Loading&#8230;</string>
+
+    <string name="response200">200 OK</string>
+    <string name="response400">400 Bad Request</string>
+    <string name="response401">401 Unauthorized</string>
+    <string name="response402">402 Payment Required</string>
+    <string name="response403">403 Forbidden</string>
+    <string name="response404">404 Not Found</string>
+    <string name="response405">405 Method Not Allowed</string>
+    <string name="response406">406 Not Acceptable</string>
+    <string name="response407">407 Proxy Authentication Required</string>
+    <string name="response408">408 Request Timeout</string>
+    <string name="response409">409 Conflict</string>
+    <string name="response410">410 Gone</string>
+    <string name="response411">411 Length Required</string>
+    <string name="response412">412 Precondition Failed</string>
+    <string name="response413">413 Payload Too Large</string>
+    <string name="response414">414 URI Too Long</string>
+    <string name="response415">415 Unsupported Media Type</string>
+    <string name="response416">416 Range Not Satisfiable</string>
+    <string name="response417">417 Expectation Failed</string>
+    <string name="response418">418 I`m a teapot</string>
+    <string name="response421">421 Misdirected Request</string>
+    <string name="response422">422 Unprocessable Entity</string>
+    <string name="response423">423 Locked</string>
+    <string name="response424">424 Failed Dependency</string>
+    <string name="response426">426 Upgrade Required</string>
+    <string name="response428">428 Precondition Required</string>
+    <string name="response429">429 Too Many Requests</string>
+    <string name="response431">431 Request Header Fields Too Large</string>
+    <string name="response451">451 Unavailable For Legal Reasons</string>
+    <string name="response500">500 Internal Server Error</string>
+    <string name="response501">501 Not Implemented</string>
+    <string name="response502">502 Bad Gateway</string>
+    <string name="response503">503 Service Unavailable</string>
+    <string name="response504">504 Gateway Timeout</string>
+    <string name="response505">505 HTTP Version Not Supported</string>
+    <string name="response506">506 Variant Also Negotiates</string>
+    <string name="response507">507 Insufficient Storage</string>
+    <string name="response508">508 Loop Detected</string>
+    <string name="response510">510 Not Extended</string>
+    <string name="response511">511 Network Authentication Required</string>
+
+    <string name="title_loading">Mohon menunggu...</string>
+    <string name="title_hapus_item">Apakah anda akan menghapus\nItem ini?</string>
+    <string name="title_hapus_kategoriitem">Apakah anda akan menghapus\nKategori Item ini?</string>
+    <string name="title_no_empty">Tidak boleh kosong</string>
+</resources>

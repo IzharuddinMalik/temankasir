@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="@dimen/_10sdp"
+        android:background="@color/tosca">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Detail Pelanggan"
+            android:textSize="@dimen/_14ssp"
+            android:textColor="@color/white"
+            android:fontFamily="@font/metropolis_bold"
+            android:layout_weight="1"/>
+
+        <ImageView
+            android:layout_width="@dimen/_24sdp"
+            android:layout_height="@dimen/_24sdp"
+            android:id="@+id/ivCloseDialogDetailPelanggan"
+            android:src="@drawable/ic_baseline_close_24"/>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nama Pelanggan"
+        android:textSize="@dimen/_12ssp"
+        android:textColor="@color/colorBlack"
+        android:fontFamily="@font/metropolis_bold"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:layout_marginHorizontal="@dimen/_20sdp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvNamaDialogDetailPelanggan"
+        android:text="Nama Pelanggan"
+        android:textSize="@dimen/_12ssp"
+        android:textColor="@color/colorBlack"
+        android:fontFamily="@font/metropolis_regular"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:layout_marginHorizontal="@dimen/_20sdp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Email Pelanggan"
+        android:textSize="@dimen/_12ssp"
+        android:textColor="@color/colorBlack"
+        android:fontFamily="@font/metropolis_bold"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:layout_marginHorizontal="@dimen/_20sdp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvEmailDialogDetailPelanggan"
+        android:text="Nama Pelanggan"
+        android:textSize="@dimen/_12ssp"
+        android:textColor="@color/colorBlack"
+        android:fontFamily="@font/metropolis_regular"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:layout_marginHorizontal="@dimen/_20sdp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="No Telepon Pelanggan"
+        android:textSize="@dimen/_12ssp"
+        android:textColor="@color/colorBlack"
+        android:fontFamily="@font/metropolis_bold"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:layout_marginHorizontal="@dimen/_20sdp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvNoTeleponDialogDetailPelanggan"
+        android:text="Nama Pelanggan"
+        android:textSize="@dimen/_12ssp"
+        android:textColor="@color/colorBlack"
+        android:fontFamily="@font/metropolis_regular"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:layout_marginHorizontal="@dimen/_20sdp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tanggal Lahir Pelanggan"
+        android:textSize="@dimen/_12ssp"
+        android:textColor="@color/colorBlack"
+        android:fontFamily="@font/metropolis_bold"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:layout_marginHorizontal="@dimen/_20sdp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvBirthdateDialogDetailPelanggan"
+        android:text="Nama Pelanggan"
+        android:textSize="@dimen/_12ssp"
+        android:textColor="@color/colorBlack"
+        android:fontFamily="@font/metropolis_regular"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:layout_marginHorizontal="@dimen/_20sdp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="@dimen/_20sdp">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnHapusDialogDetailPelanggan"
+            android:text="Hapus"
+            android:textSize="@dimen/_9ssp"
+            android:textColor="@color/white"
+            android:textAllCaps="false"
+            android:fontFamily="@font/metropolis_bold"
+            android:background="@drawable/rounded_red_button"
+            android:layout_weight="1"
+            android:layout_marginRight="@dimen/_10sdp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnEditDialogDetailPelanggan"
+            android:text="Ubah"
+            android:textSize="@dimen/_9ssp"
+            android:textColor="@color/white"
+            android:textAllCaps="false"
+            android:fontFamily="@font/metropolis_bold"
+            android:background="@drawable/rounded_tosca_button"
+            android:layout_weight="1"
+            android:layout_marginLeft="@dimen/_10sdp"/>
+    </LinearLayout>
+</LinearLayout>

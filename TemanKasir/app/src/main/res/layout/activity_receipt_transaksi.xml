@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.transaksi.ReceiptTransaksiActivity"
+    android:orientation="vertical"
+    android:background="@color/grayf2"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Transaksi dengan nomor"
+        android:textSize="@dimen/_12ssp"
+        android:textColor="@color/colorBlack"
+        android:fontFamily="@font/metropolis_regular"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvKodeTransReceipt"
+        android:text="XXXXX"
+        android:textSize="@dimen/_14ssp"
+        android:textColor="@color/tosca"
+        android:fontFamily="@font/metropolis_bold"
+        android:textAlignment="center"
+        android:layout_marginTop="@dimen/_20sdp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="telah berhasil dilakukan."
+        android:textSize="@dimen/_12ssp"
+        android:textColor="@color/colorBlack"
+        android:fontFamily="@font/metropolis_regular"
+        android:textAlignment="center"
+        android:layout_marginTop="@dimen/_20sdp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kembalian transaksi sebesar :"
+        android:textSize="@dimen/_12ssp"
+        android:textColor="@color/colorBlack"
+        android:fontFamily="@font/metropolis_regular"
+        android:textAlignment="center"
+        android:layout_marginTop="@dimen/_20sdp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvKembalianReceipt"
+        android:text="Rp 0.0000"
+        android:textSize="@dimen/_14ssp"
+        android:textColor="@color/colorBlack"
+        android:fontFamily="@font/metropolis_bold"
+        android:textAlignment="center"
+        android:layout_marginTop="@dimen/_20sdp"/>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardBackgroundColor="@color/darkOrange"
+        app:cardCornerRadius="@dimen/_5sdp"
+        android:layout_marginLeft="@dimen/_15sdp"
+        android:layout_marginRight="@dimen/_15sdp"
+        android:layout_marginBottom="@dimen/_10sdp"
+        android:layout_marginTop="@dimen/_40sdp"
+        android:layout_gravity="bottom"
+        android:id="@+id/cvBackToTransaksiReceipt">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Kembali Transaksi"
+            android:textSize="@dimen/_12ssp"
+            android:textColor="@color/white"
+            android:textAlignment="center"
+            android:layout_margin="@dimen/_10sdp"
+            android:fontFamily="@font/metropolis_bold"/>
+
+    </androidx.cardview.widget.CardView>
+</LinearLayout>

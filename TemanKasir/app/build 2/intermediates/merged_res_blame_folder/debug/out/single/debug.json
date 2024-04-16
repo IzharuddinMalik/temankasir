@@ -1,0 +1,426 @@
+[
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_rounded_blue_toast.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/rounded_blue_toast.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_ic_item.png.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/ic_item.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/layout_fragment_pengaturan.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/layout/fragment_pengaturan.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/layout_inflater_kategori_item.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/layout/inflater_kategori_item.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/layout_activity_bisnis_akun.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/layout/activity_bisnis_akun.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_ic_dropdown.png.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/ic_dropdown.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/layout_toast_information.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/layout/toast_information.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/font_metropolis_thinitalic.otf.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/font/metropolis_thinitalic.otf"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/layout_activity_splash_screen.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/font_metropolis_bold.otf.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/font/metropolis_bold.otf"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_ic_arrow_right_darkorange.png.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/ic_arrow_right_darkorange.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/font_metropolis_light.otf.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/font/metropolis_light.otf"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_history.png.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/history.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_ic_kategori_item.png.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/ic_kategori_item.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_rounded_red_button.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/rounded_red_button.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_rounded_white_red_stroke.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/rounded_white_red_stroke.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_bg_rede53935_cor6p.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/bg_rede53935_cor6p.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/layout_slide_1.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/layout/slide_1.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_logo512.png.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/logo512.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/layout_activity_atur_item.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/layout/activity_atur_item.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/font_metropolis_semibold.otf.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/font/metropolis_semibold.otf"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/font_metropolis_regular.otf.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/font/metropolis_regular.otf"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_rounded_white_stroke_button.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/rounded_white_stroke_button.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_rounded_red_toast.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/rounded_red_toast.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_rounded_red.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/rounded_red.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/layout_activity_tambah_kategori_item.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/layout/activity_tambah_kategori_item.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_logotext.png.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/logotext.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/layout_fragment_histori.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/layout/fragment_histori.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/font_metropolis_extralightitalic.otf.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/font/metropolis_extralightitalic.otf"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/layout_fragment_item.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/layout/fragment_item.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_rounded_white.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/rounded_white.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_image_slide1.jpg.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/image_slide1.jpg"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_iconinformation.png.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/iconinformation.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_iconcross.png.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/iconcross.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/layout_activity_profile_akun.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/layout/activity_profile_akun.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/layout_activity_atur_outlet.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/layout/activity_atur_outlet.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_rounded_expired.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/rounded_expired.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/layout_toast_failed.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/layout/toast_failed.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_transparent.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/transparent.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/layout_activity_tambah_outlet.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/layout/activity_tambah_outlet.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/font_metropolis_thin.otf.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/font/metropolis_thin.otf"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/font_metropolis_black.otf.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/font/metropolis_black.otf"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_border_gray.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/border_gray.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_rounded_green_toast.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/rounded_green_toast.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_rounded_red_his.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/rounded_red_his.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/font_metropolis_mediumitalic.otf.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/font/metropolis_mediumitalic.otf"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/font_metropolis_bolditalic.otf.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/font/metropolis_bolditalic.otf"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/font_metropolis_lightitalic.otf.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/font/metropolis_lightitalic.otf"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_rounded_yellow_button_pay.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/rounded_yellow_button_pay.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_image_slide3.jpg.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/image_slide3.jpg"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_rounded_orange_button.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/rounded_orange_button.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/layout_slide_3.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/layout/slide_3.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/layout_activity_tambah_item.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/layout/activity_tambah_item.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_rounded_light_gray.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/rounded_light_gray.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_rounded_gray.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/rounded_gray.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/font_metropolis_medium.otf.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/font/metropolis_medium.otf"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/font_metropolis_blackitalic.otf.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/font/metropolis_blackitalic.otf"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/layout_activity_atur_kasir.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/layout/activity_atur_kasir.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/layout_dialog_loading.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/layout/dialog_loading.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_rounded_stroke_navy.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/rounded_stroke_navy.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_bg_whiteffffff_cor6p_strb8b8b81p.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/bg_whiteffffff_cor6p_strb8b8b81p.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_transaction.png.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/transaction.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/layout_activity_tambah_kasir.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/layout/activity_tambah_kasir.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/font_metropolis_regularitalic.otf.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/font/metropolis_regularitalic.otf"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_image_slide2.jpg.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/image_slide2.jpg"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_ic_arrow_left_white.png.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/ic_arrow_left_white.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/layout_inflater_kasir.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/layout/inflater_kasir.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_loadingnew.gif.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/loadingnew.gif"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_bg_blue2196f3_cor6p.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/bg_blue2196f3_cor6p.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_rounded_light_orange.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/rounded_light_orange.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/layout_toast_success.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/layout/toast_success.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/layout_fragment_transaksi.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/layout/fragment_transaksi.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/layout_slide_2.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/layout/slide_2.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_rounded_stroke_gray_c4_button_pay.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/rounded_stroke_gray_c4_button_pay.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/layout_inflater_item.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/layout/inflater_item.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/layout_activity_slide.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/layout/activity_slide.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/layout_fragment_kategori_item.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/layout/fragment_kategori_item.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_round_stroke_navy.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/round_stroke_navy.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_rounded_navy_button.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/rounded_navy_button.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_rounded_stroke_navy_white_button_pay.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/rounded_stroke_navy_white_button_pay.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_bg_green4caf50_cor6p.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/bg_green4caf50_cor6p.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_rounded_gray_c4.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/rounded_gray_c4.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_rounded_gray_f4.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/rounded_gray_f4.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_icontick.png.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/icontick.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/font_metropolis_extrabold.otf.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/font/metropolis_extrabold.otf"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/font_metropolis_extrabolditalic.otf.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/font/metropolis_extrabolditalic.otf"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_cashier.png.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/cashier.png"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/font_metropolis_extralight.otf.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/font/metropolis_extralight.otf"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable_rounded_yellow.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/drawable/rounded_yellow.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/font_metropolis_semibolditalic.otf.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/src/main/res/font/metropolis_semibolditalic.otf"
+    },
+    {
+        "merged": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    }
+]

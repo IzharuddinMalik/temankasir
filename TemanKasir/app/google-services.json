@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525722802198",
+    "project_id": "temankasir",
+    "storage_bucket": "temankasir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525722802198:android:27a8b94d6daa42f691fd37",
+        "android_client_info": {
+          "package_name": "com.temankasir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525722802198-s6h1fup752b2mm2ld25tep6a661fkgo0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCylv-W94Gk2_TGNx48ER-VT5WKbKujoZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525722802198-s6h1fup752b2mm2ld25tep6a661fkgo0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

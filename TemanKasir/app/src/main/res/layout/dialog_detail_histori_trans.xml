@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="@color/tosca"
+            android:padding="@dimen/_10sdp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Detail Riwayat Transaksi"
+                android:textSize="@dimen/_12ssp"
+                android:textColor="@color/white"
+                android:fontFamily="@font/metropolis_bold"
+                android:layout_weight="1"/>
+
+            <ImageView
+                android:layout_width="@dimen/_24sdp"
+                android:layout_height="@dimen/_24sdp"
+                android:id="@+id/ivCloseDialogDetailHistoriTrans"
+                android:src="@drawable/ic_baseline_close_24"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:layout_marginHorizontal="@dimen/_20sdp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Kode Transaksi"
+                android:textSize="@dimen/_12ssp"
+                android:textColor="@color/colorBlack"
+                android:fontFamily="@font/metropolis_bold"
+                android:layout_weight="1"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Tanggal Transaksi"
+                android:textSize="@dimen/_12ssp"
+                android:textColor="@color/colorBlack"
+                android:fontFamily="@font/metropolis_bold"
+                android:layout_weight="1"
+                android:textAlignment="textEnd"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:layout_marginHorizontal="@dimen/_20sdp">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvKodeDetailHistoriTrans"
+                android:text="Kode Transaksi"
+                android:textSize="@dimen/_12ssp"
+                android:textColor="@color/colorBlack"
+                android:fontFamily="@font/metropolis_regular"
+                android:layout_weight="1"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvDateDetailHistoriTrans"
+                android:text="Tanggal Transaksi"
+                android:textSize="@dimen/_12ssp"
+                android:textColor="@color/colorBlack"
+                android:fontFamily="@font/metropolis_regular"
+                android:layout_weight="1"
+                android:textAlignment="textEnd"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:layout_marginHorizontal="@dimen/_20sdp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Nama Outlet"
+                android:textSize="@dimen/_12ssp"
+                android:textColor="@color/colorBlack"
+                android:fontFamily="@font/metropolis_bold"
+                android:layout_weight="1"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Nama Kasir"
+                android:textSize="@dimen/_12ssp"
+                android:textColor="@color/colorBlack"
+                android:fontFamily="@font/metropolis_bold"
+                android:layout_weight="1"
+                android:textAlignment="textEnd"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:layout_marginHorizontal="@dimen/_20sdp">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvOutletDetailHistoriTrans"
+                android:text="Kode Transaksi"
+                android:textSize="@dimen/_12ssp"
+                android:textColor="@color/colorBlack"
+                android:fontFamily="@font/metropolis_regular"
+                android:layout_weight="1"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvKasirDetailHistoriTrans"
+                android:text="Tanggal Transaksi"
+                android:textSize="@dimen/_12ssp"
+                android:textColor="@color/colorBlack"
+                android:fontFamily="@font/metropolis_regular"
+                android:layout_weight="1"
+                android:textAlignment="textEnd"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:layout_marginHorizontal="@dimen/_20sdp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Nama Pelanggan"
+                android:textSize="@dimen/_12ssp"
+                android:textColor="@color/colorBlack"
+                android:fontFamily="@font/metropolis_bold"
+                android:layout_weight="1"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Tipe Pembayaran"
+                android:textSize="@dimen/_12ssp"
+                android:textColor="@color/colorBlack"
+                android:fontFamily="@font/metropolis_bold"
+                android:layout_weight="1"
+                android:textAlignment="textEnd"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:layout_marginHorizontal="@dimen/_20sdp">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvNamaPelangganDetailHistoriTrans"
+                android:text="Kode Transaksi"
+                android:textSize="@dimen/_12ssp"
+                android:textColor="@color/colorBlack"
+                android:fontFamily="@font/metropolis_regular"
+                android:layout_weight="1"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvTipePembayaranDetailHistoriTrans"
+                android:text="Tanggal Transaksi"
+                android:textSize="@dimen/_12ssp"
+                android:textColor="@color/colorBlack"
+                android:fontFamily="@font/metropolis_regular"
+                android:layout_weight="1"
+                android:textAlignment="textEnd"/>
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Item yang dipesan"
+            android:textSize="@dimen/_12ssp"
+            android:textColor="@color/colorBlack"
+            android:fontFamily="@font/metropolis_bold"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:layout_marginHorizontal="@dimen/_20sdp"/>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/rvListItemDetailHistoriTrans"
+            android:layout_marginHorizontal="@dimen/_20sdp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:layout_marginHorizontal="@dimen/_20sdp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sub Total"
+                android:textSize="@dimen/_12ssp"
+                android:textColor="@color/colorBlack"
+                android:fontFamily="@font/metropolis_regular"
+                android:layout_weight="1" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvSubTotalDetailHistoriTrans"
+                android:text="subtotal"
+                android:textSize="@dimen/_12ssp"
+                android:textColor="@color/colorBlack"
+                android:fontFamily="@font/metropolis_bold"
+                android:layout_weight="1"
+                android:textAlignment="textEnd"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:layout_marginHorizontal="@dimen/_20sdp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Total Transaksi"
+                android:textSize="@dimen/_12ssp"
+                android:textColor="@color/colorBlack"
+                android:fontFamily="@font/metropolis_regular"
+                android:layout_weight="1" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvTotalTransDetailHistoriTrans"
+                android:text="subtotal"
+                android:textSize="@dimen/_12ssp"
+                android:textColor="@color/colorBlack"
+                android:fontFamily="@font/metropolis_bold"
+                android:layout_weight="1"
+                android:textAlignment="textEnd"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:layout_marginHorizontal="@dimen/_20sdp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Dibayarkan"
+                android:textSize="@dimen/_12ssp"
+                android:textColor="@color/colorBlack"
+                android:fontFamily="@font/metropolis_regular"
+                android:layout_weight="1" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvDibayarDetailHistoriTrans"
+                android:text="subtotal"
+                android:textSize="@dimen/_12ssp"
+                android:textColor="@color/colorBlack"
+                android:fontFamily="@font/metropolis_bold"
+                android:layout_weight="1"
+                android:textAlignment="textEnd"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:layout_marginHorizontal="@dimen/_20sdp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Kembalian"
+                android:textSize="@dimen/_12ssp"
+                android:textColor="@color/colorBlack"
+                android:fontFamily="@font/metropolis_regular"
+                android:layout_weight="1" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvKembalianDetailHistoriTrans"
+                android:text="subtotal"
+                android:textSize="@dimen/_12ssp"
+                android:textColor="@color/colorBlack"
+                android:fontFamily="@font/metropolis_bold"
+                android:layout_weight="1"
+                android:textAlignment="textEnd"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginVertical="@dimen/_10sdp"
+            android:layout_marginHorizontal="@dimen/_20sdp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Status Transaksi"
+                android:textSize="@dimen/_12ssp"
+                android:textColor="@color/colorBlack"
+                android:fontFamily="@font/metropolis_regular"
+                android:layout_weight="1" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvStatusTransDetailHistoriTrans"
+                android:text="subtotal"
+                android:textSize="@dimen/_12ssp"
+                android:textColor="@color/colorBlack"
+                android:fontFamily="@font/metropolis_bold"
+                android:layout_weight="1"
+                android:textAlignment="textEnd"/>
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

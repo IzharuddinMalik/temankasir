@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context=".ui.home.MainActivity">
+
+    <FrameLayout
+        android:id="@+id/fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"/>
+
+    <com.gauravk.bubblenavigation.BubbleNavigationLinearView
+        android:id="@+id/bubbleNavigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/tosca"
+        android:orientation="horizontal"
+        android:paddingTop="@dimen/_10sdp"
+        android:paddingRight="@dimen/_20sdp"
+        android:paddingLeft="@dimen/_20sdp"
+        android:paddingBottom="@dimen/_10sdp">
+
+        <com.gauravk.bubblenavigation.BubbleToggleView
+            android:id="@+id/home"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            app:bt_colorActive="@color/white"
+            app:bt_colorInactive="@color/white"
+            app:bt_icon="@drawable/transaction"
+            app:bt_iconHeight="@dimen/_15sdp"
+            app:bt_iconWidth="@dimen/_15sdp"
+            app:bt_padding="@dimen/_3sdp"
+            app:bt_shape="@drawable/border_gray"
+            app:bt_title="Transaksi"
+            app:bt_titleSize="@dimen/_11ssp" />
+
+        <com.gauravk.bubblenavigation.BubbleToggleView
+            android:id="@+id/search"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            app:bt_colorActive="@color/white"
+            app:bt_colorInactive="@color/white"
+            app:bt_icon="@drawable/history"
+            app:bt_iconHeight="@dimen/_15sdp"
+            app:bt_iconWidth="@dimen/_15sdp"
+            app:bt_padding="@dimen/_3sdp"
+            app:bt_shape="@drawable/border_gray"
+            app:bt_title="Riwayat"
+            app:bt_titleSize="@dimen/_11ssp" />
+
+        <com.gauravk.bubblenavigation.BubbleToggleView
+            android:id="@+id/starred"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            app:bt_colorActive="@color/white"
+            app:bt_colorInactive="@color/white"
+            app:bt_icon="@drawable/cashier"
+            app:bt_iconHeight="@dimen/_15sdp"
+            app:bt_iconWidth="@dimen/_15sdp"
+            app:bt_padding="@dimen/_3sdp"
+            app:bt_shape="@drawable/border_gray"
+            app:bt_title="Setting"
+            app:bt_titleSize="@dimen/_11ssp" />
+
+    </com.gauravk.bubblenavigation.BubbleNavigationLinearView>
+
+</LinearLayout>

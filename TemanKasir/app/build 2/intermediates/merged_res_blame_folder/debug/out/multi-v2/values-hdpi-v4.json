@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/macbook/Documents/Project Android/TemanKasir/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/macbook/.gradle/caches/transforms-2/files-2.1/1dcc164725e9b3392428a8695d7fd06c/jetified-core-1.9.13/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    },
+                    "to": {
+                        "startLines": "16,17",
+                        "startColumns": "4,4",
+                        "startOffsets": "755,813",
+                        "endColumns": "57,55",
+                        "endOffsets": "808,864"
+                    }
+                },
+                {
+                    "source": "/Users/macbook/.gradle/caches/transforms-2/files-2.1/f3ebcbef7ed55273ad0334a690bb60b2/awesome-calendar-2.0.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,108,157,206,262,312,362,412,466,512,562,611,655,707",
+                        "endColumns": "52,48,48,55,49,49,49,53,45,49,48,43,51,47",
+                        "endOffsets": "103,152,201,257,307,357,407,461,507,557,606,650,702,750"
+                    }
+                },
+                {
+                    "source": "/Users/macbook/.gradle/caches/transforms-2/files-2.1/7160c6b9fdb2bc1e41d9bd715d01fdc2/appcompat-1.3.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "869",
+                        "endLines": "22",
+                        "endColumns": "13",
+                        "endOffsets": "1141"
+                    }
+                }
+            ]
+        }
+    ]
+}

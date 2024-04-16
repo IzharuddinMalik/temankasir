@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="@dimen/_20sdp"
+    app:cardBackgroundColor="@color/white"
+    android:layout_marginHorizontal="@dimen/_5sdp"
+    android:layout_marginTop="@dimen/_5sdp"
+    android:id="@+id/cvListMetodePembayaranTunai">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvListNamaMetodePembayaranTunai"
+        android:text="Nama Metode pembayaran"
+        android:textSize="@dimen/_10ssp"
+        android:textColor="@color/tosca"
+        android:fontFamily="@font/metropolis_bold"
+        android:textAlignment="center"
+        android:layout_marginVertical="@dimen/_15sdp"/>
+</androidx.cardview.widget.CardView>
